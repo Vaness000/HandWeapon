@@ -1,0 +1,6 @@
+E:\HandWeapon\HandWeaponFactoryMethod\HandWeapon\bin\Debug\HandWeapon.dll
+E:\HandWeapon\HandWeaponFactoryMethod\HandWeapon\bin\Debug\HandWeapon.pdb
+E:\HandWeapon\HandWeaponFactoryMethod\HandWeapon\obj\Debug\HandWeapon.csprojAssemblyReference.cache
+E:\HandWeapon\HandWeaponFactoryMethod\HandWeapon\obj\Debug\HandWeapon.csproj.CoreCompileInputs.cache
+E:\HandWeapon\HandWeaponFactoryMethod\HandWeapon\obj\Debug\HandWeapon.dll
+E:\HandWeapon\HandWeaponFactoryMethod\HandWeapon\obj\Debug\HandWeapon.pdb
