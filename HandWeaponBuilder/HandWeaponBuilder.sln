@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandWeaponBuilder", "HandWeaponBuilder\HandWeaponBuilder.csproj", "{D96B20F5-B6CB-47C9-967E-1830AD96D2A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandWeapon", "..\HandWeaponFactoryMethod\HandWeapon\HandWeapon.csproj", "{ECB49405-12AE-4C12-9C8E-402778D743B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96B20F5-B6CB-47C9-967E-1830AD96D2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96B20F5-B6CB-47C9-967E-1830AD96D2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96B20F5-B6CB-47C9-967E-1830AD96D2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96B20F5-B6CB-47C9-967E-1830AD96D2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB49405-12AE-4C12-9C8E-402778D743B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB49405-12AE-4C12-9C8E-402778D743B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB49405-12AE-4C12-9C8E-402778D743B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB49405-12AE-4C12-9C8E-402778D743B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA65F86-CF7F-42D0-BDAC-4B2154C078E8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\obj\Debug\HandWeaponBuilder.csprojAssemblyReference.cache
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\obj\Debug\HandWeaponBuilder.HandWeaponBuilder.resources
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\obj\Debug\HandWeaponBuilder.Properties.Resources.resources
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\obj\Debug\HandWeaponBuilder.csproj.GenerateResource.cache
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\obj\Debug\HandWeaponBuilder.csproj.CoreCompileInputs.cache
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\bin\Debug\HandWeaponBuilder.exe.config
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\bin\Debug\HandWeaponBuilder.exe
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\bin\Debug\HandWeaponBuilder.pdb
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\bin\Debug\HandWeapon.dll
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\bin\Debug\HandWeapon.pdb
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\obj\Debug\HandWeaponBuilder.csproj.CopyComplete
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\obj\Debug\HandWeaponBuilder.exe
+E:\HandWeapon\HandWeaponBuilder\HandWeaponBuilder\obj\Debug\HandWeaponBuilder.pdb

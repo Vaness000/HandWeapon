@@ -1,0 +1,13 @@
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\obj\Debug\HandWeaponAbstractFatory.csprojAssemblyReference.cache
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\obj\Debug\HandWeaponAbstractFatory.HandWeaponAbstractFactory.resources
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\obj\Debug\HandWeaponAbstractFatory.Properties.Resources.resources
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\obj\Debug\HandWeaponAbstractFatory.csproj.GenerateResource.cache
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\obj\Debug\HandWeaponAbstractFatory.csproj.CoreCompileInputs.cache
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\bin\Debug\HandWeaponAbstractFatory.exe.config
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\bin\Debug\HandWeaponAbstractFatory.exe
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\bin\Debug\HandWeaponAbstractFatory.pdb
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\bin\Debug\HandWeapon.dll
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\bin\Debug\HandWeapon.pdb
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\obj\Debug\HandWeaponAbstractFatory.csproj.CopyComplete
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\obj\Debug\HandWeaponAbstractFatory.exe
+C:\Users\rayzh\source\repos\HandWeaponAbstactFactory\HandWeaponAbstractFatory\obj\Debug\HandWeaponAbstractFatory.pdb
